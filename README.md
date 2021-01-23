@@ -1,1 +1,1 @@
-# DS_Widhya
+# Data Science - Winternship Program - Widhya
